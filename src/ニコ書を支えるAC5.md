@@ -14,6 +14,8 @@ author: masarakki
 
 ニコ書チームはチームnicobookとしてAC5に参戦しました。
 
+![AC5エンブレム](images/ac5_emb.jpg)
+
 ## ニコ書チームを本当に支えたAC5
 
 AC5はネットゲームです。
